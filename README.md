@@ -1,12 +1,5 @@
 # Chat app CSS illustration solution
 
-
-<h3 align="center">
-  <strong>
-    <a href="https://arlagonix.github.io/projects/chat-app-css-illustration-master">Open Demo in Github Pages</a>
-  </strong>
-</h3>
-
 <p align="center">
   <img src="./images/solution/very-wide.jpg" width="100%">
 </p>
