@@ -1,4 +1,7 @@
-# Chat app CSS illustration solution
+<h1 align="center">Chat App Illustration</h1>
+<p align="center">
+  Coded with <code>HTML</code>, <code>CSS</code>
+</p>
 
 <p align="center">
   <img src="./images/solution/very-wide.jpg" width="100%">
